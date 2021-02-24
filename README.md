@@ -7,7 +7,7 @@ Let viewers drop confetti on your stream with a command in chat
 1. You can download it as a zip.
 1. Open the zip, and save the confetti folder somewhere on your computer.
 1. Open the config.js file using Notepad.
-1. Set the configuration by entering and savig the config.js file:
+1. Set the configuration by entering and saving the config.js file:
     1. channel - your twitch username
     1. waitTimeUser - the cooldown time in seconds per user
     1. waitTimeGlobal - the global cooldown time between confetti.  Set 0 for no global cooldown
